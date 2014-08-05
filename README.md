@@ -1,7 +1,7 @@
 ## node-keyboard-symbols-converter ##
 Simple helper that convert keyboard symbols from Russian or Ukrainian to English.
 ## Installing ##
-Add to you packaje.json file:
+Add to you package.json file:
 
     "dependencies": {
        "converter": "git://github.com/ria-com/node-keyboard-symbols-converter.git"
