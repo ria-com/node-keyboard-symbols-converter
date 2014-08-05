@@ -1,0 +1,28 @@
+{
+  "name": "node-keyboard-symbols-converter",
+  "version": "0.0.0",
+  "description": "Simple helper that convert keyboard symbols from Russian or Ukrainian to English",
+  "main": "./lib/converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ria-com/node-keyboard-symbols-converter.git"
+  },
+  "keywords": [
+    "convert",
+    "keyboard",
+    "switcher",
+    "symbols",
+    "russian",
+    "ukrainian",
+    "english"
+  ],
+  "author": "SamhainG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ria-com/node-keyboard-symbols-converter/issues"
+  },
+  "homepage": "https://github.com/ria-com/node-keyboard-symbols-converter"
+}
