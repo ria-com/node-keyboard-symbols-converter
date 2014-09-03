@@ -1,0 +1,32 @@
+{
+  "name": "keyboard-symbols-converter",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ria-com/node-keyboard-symbols-converter",
+  "authors": [
+    "SamhainG"
+  ],
+  "description": "Simple helper that convert keyboard symbols from Russian or Ukrainian to English",
+  "main": "./lib/converter.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "convert",
+    "keyboard",
+    "switcher",
+    "symbols",
+    "russian",
+    "ukrainian",
+    "english"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

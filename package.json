@@ -1,6 +1,6 @@
 {
-  "name": "node-keyboard-symbols-converter",
-  "version": "0.0.0",
+  "name": "keyboard-symbols-converter",
+  "version": "1.0.1",
   "description": "Simple helper that convert keyboard symbols from Russian or Ukrainian to English",
   "main": "./lib/converter.js",
   "scripts": {
